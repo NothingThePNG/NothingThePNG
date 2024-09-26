@@ -1,3 +1,3 @@
 ## Hi 
 
-- what is the point of these README.md?
+- Here's a link to a wbsite I made for free on Neocities [link](https://nothingthepng.neocities.org/)
