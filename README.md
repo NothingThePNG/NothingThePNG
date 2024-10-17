@@ -6,8 +6,11 @@
 <summary>Langesges</summary>
 <br>
 - html
+  <br>
 - css
+  <br>
 - js
+  <br>
 - python
 
 </details>
